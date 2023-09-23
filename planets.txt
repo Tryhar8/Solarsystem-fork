@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Centauri
+=======
+Pull/Fetch
+>>>>>>> origin/main
 Mars
 Venus
 Earth
@@ -9,4 +13,8 @@ Mercury
 Neptun
 Test
 Test2
+<<<<<<< HEAD
 Test3
+=======
+Test3
+>>>>>>> origin/main
