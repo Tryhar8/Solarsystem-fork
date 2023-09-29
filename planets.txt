@@ -1,7 +1,7 @@
 Mars
 Venus
 Earth
-Moon
+- Moon
 Sun
 Jupiter
 Mercury
