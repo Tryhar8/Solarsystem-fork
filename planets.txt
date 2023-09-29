@@ -1,8 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Centauri
 =======
 Pull/Fetch
 >>>>>>> origin/main
+=======
+>>>>>>> fb200821ea24994c7bd892b2996a4fcd574456f4
 Mars
 Venus
 Earth
@@ -11,6 +14,7 @@ Sun
 Jupiter
 Mercury
 Neptun
+<<<<<<< HEAD
 Test
 Test2
 <<<<<<< HEAD
@@ -18,3 +22,5 @@ Test3
 =======
 Test3
 >>>>>>> origin/main
+=======
+>>>>>>> fb200821ea24994c7bd892b2996a4fcd574456f4
